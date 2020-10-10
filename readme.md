@@ -1,4 +1,4 @@
-[![webcam2ascii](https://gifs.com/gif/webcam2ascii-k83AZ6)](https://youtu.be/DdrlGsCBmo8)
+[![webcam2ascii](https://j.gifs.com/k83AZ6.gif)](https://youtu.be/DdrlGsCBmo8)
 
 # webcam2ascii
 
