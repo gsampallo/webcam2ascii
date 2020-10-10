@@ -19,7 +19,7 @@ while(True):
 
     aspect_ratio = float(img.shape[0]/img.shape[1])
 
-    new_width = 100
+    new_width = 80
     new_height = int(aspect_ratio * new_width)
 
     new_dim = (new_width, new_height)  
